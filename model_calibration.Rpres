@@ -1,0 +1,34 @@
+Multi-collinerity and variable selection for stan_glm()
+========================================================
+author: Oluoch, Wyclife Agumba
+
+date: `r Sys.time()`
+autosize: true
+
+Background
+========================================================
+
+We conducted FGDs in three community units.
+
+- We used 11 predictor variables and **one** response variable.
+
+- All variables were categorical of 3 levels each.
+
+- Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+library(tidyverse)
+fgd_data <- read.csv('D:/R/BAYES_STAN_GLM/bayesian_stan_glm/data/fgd_availability.csv')
+head(fgd_data, 20)
+
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
