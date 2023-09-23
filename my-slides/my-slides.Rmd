@@ -30,7 +30,7 @@ opts_chunk$set(echo = FALSE,
                fig.height = 4,
                dpi = 300)
 
-# uncomment the following lines if you want to use the NHS-R theme colours by default
+# ncomment the following lines if you want to use the NHS-R theme colours by default
 # scale_fill_continuous <- partial(scale_fill_nhs, discrete = FALSE)
 # scale_fill_discrete <- partial(scale_fill_nhs, discrete = TRUE)
 # scale_colour_continuous <- partial(scale_colour_nhs, discrete = FALSE)
