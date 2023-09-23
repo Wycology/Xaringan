@@ -66,4 +66,4 @@ Often used for transitions
 
 --
 
-* third point
+* 3rd point
