@@ -23,8 +23,7 @@ output:
 ---
 
 ```{r setup, include = FALSE}
-pacman::p_load(knitr,
-library(tidyverse)
+pacman::p_load(knitr, tidyverse)
 library(nhsrtheme)
 # set default options
 opts_chunk$set(echo = FALSE,
