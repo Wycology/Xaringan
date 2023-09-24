@@ -62,7 +62,7 @@ Often used for transitions
 
 --
 
-* 2nd point
+* 2nd point g
 
 --
 
