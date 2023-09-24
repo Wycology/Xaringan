@@ -58,7 +58,7 @@ Often used for transitions
 
 --
 
-* 1st point goes
+* 1st point goes 
 
 --
 
