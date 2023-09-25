@@ -71,6 +71,7 @@ head(iris, 10)
 * second point
 ```{r}
 tail(iris, 10)
+```
 --
 
 * third point
