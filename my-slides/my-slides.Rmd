@@ -50,7 +50,7 @@ class: inverse, middle, center
 
 # An inverse slide
 
-This isften used for transitions
+This is ften used for transitions
 
 ---
 
