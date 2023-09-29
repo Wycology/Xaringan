@@ -62,7 +62,7 @@ Often used for transitions
 
 * first point
 ```{r}
-head(iris, 10) #
+head(iris, 10) # 
 ```
 
 
