@@ -60,7 +60,7 @@ Often used for transitions
 
 --
 
-* The first point go
+* The first point goe
 ```{r}
 head(iris, 10) # check the first few rows
 ```
