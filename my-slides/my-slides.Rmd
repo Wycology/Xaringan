@@ -23,16 +23,14 @@ output:
 ---
 
 ```{r setup, include = FALSE}
-library(knitr)
-library(tidyverse)
-library(nhsrtheme)
+pacman::p_load(knitr, tidyverse, nhsrtheme)
 # set default options
 opts_chunk$set(echo = FALSE,
                fig.width = 7.252,
                fig.height = 4,
                dpi = 300)
 
-# uncomment the following lines if you want to use the NHS-R theme colours by default
+# Uncomment the following lines if you want to use the NHS-R theme colors by default
 # scale_fill_continuous <- partial(scale_fill_nhs, discrete = FALSE)
 # scale_fill_discrete <- partial(scale_fill_nhs, discrete = TRUE)
 # scale_colour_continuous <- partial(scale_colour_nhs, discrete = FALSE)
@@ -52,7 +50,7 @@ class: inverse, middle, center
 
 # An inverse slide
 
-Often used for transitions
+This is often used for transitions
 
 ---
 
@@ -60,12 +58,12 @@ Often used for transitions
 
 --
 
-* first point
+* 1st point goes here
 
 --
 
-* second point
+* 2nd point goes
 
 --
 
-* third point
+* 3rd point

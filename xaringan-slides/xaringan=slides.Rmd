@@ -51,16 +51,18 @@ Often used for transitions
 
 --
 
-* first point
+* The first point goes here
 ```{r}
-head(iris, 12)
+head(iris, 10) # check the first few rows
 ```
 
 
 --
 
 * second point
-
+```{r}
+tail(iris, 10)
+```
 --
 
 * third point
