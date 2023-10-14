@@ -58,7 +58,7 @@ This is often used for transitions
 
 --
 
-* 1st point goes h
+* 1st point goes 
 
 --
 
