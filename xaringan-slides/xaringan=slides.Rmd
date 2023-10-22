@@ -41,7 +41,7 @@ class: title-slide, left, bottom
 ---
 class: inverse, bottom, center
 
-# An inverse slide exams
+# An inverse slide examps
 
 Often used for transitions
 
