@@ -41,7 +41,7 @@ class: title-slide, left, bottom
 ---
 class: inverse, bottom, center
 
-# An inverse slide exs
+# An inverse slide exas
 
 Often used for transitions
 
