@@ -41,7 +41,7 @@ class: title-slide, left, bottom
 ---
 class: inverse, bottom, center
 
-# An inverse slide examples
+# An inverse slide example
 
 Often used for transitions
 
