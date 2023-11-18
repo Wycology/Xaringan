@@ -54,7 +54,7 @@ This is often used for transitions
 
 ---
 
-# A slide where some bullets appear
+# A slide wher some bullets appear
 
 --
 
