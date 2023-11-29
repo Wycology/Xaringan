@@ -33,7 +33,7 @@ opts_chunk$set(echo = FALSE,
 # Uncomment the following lines if you want to use the NHS-R theme colors by default
 # scale_fill_continuous <- partial(scale_fill_nhs, discrete = F)
 # scale_fill_discrete <- partial(scale_fill_nhs, discrete = T)
-# scale_colour_continuous <- partial(scale_colour_nhs, discrete = FALS)
+# scale_colour_continuous <- partial(scale_colour_nhs, discrete = FA)
 # scale_colour_discrete <- partial(scale_colour_nhs, discrete = TRUE)
 ```
 
